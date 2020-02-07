@@ -256,7 +256,7 @@ https://api.lynxsweden.org/v2/docs
 **Block Explorers**   
 https://lynx.bloks.io/    
 
-**Permissions**
+**Permissions**    
 https://permission.lynxchain.io
 --------------  
 
