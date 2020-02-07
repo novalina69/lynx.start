@@ -250,7 +250,7 @@ List staked/delegated
 # Lynx MainNet History nodes
 **Hyperion History**  
 https://history.lynxchain.io    
-https://lynx.eosusa.news/v2/docs/
+https://lynx.eosusa.news/v2/docs/    
 https://api.lynxsweden.org/v2/docs    
 
 **Block Explorers**   
